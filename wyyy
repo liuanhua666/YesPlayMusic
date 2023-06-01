@@ -1,0 +1,9 @@
+vercel.json
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://vercel.com/1298033276j-gmailcom/netease-cloud-music-api/:match*"
+    }
+  ]
+}
