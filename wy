@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://vercel.com/1298033276j-gmailcom/yes-play-music/:match*"
+    }
+  ]
+}
