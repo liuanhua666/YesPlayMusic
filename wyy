@@ -1,0 +1,9 @@
+vercel.json
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-cloud-music-api-fmx8.vercel.app/"
+    }
+  ]
+}
